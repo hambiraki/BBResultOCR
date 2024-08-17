@@ -1,0 +1,2 @@
+# BBResultOCR
+BORDER BREAKのリザルト画面からRP算出に必要な情報を抽出する
